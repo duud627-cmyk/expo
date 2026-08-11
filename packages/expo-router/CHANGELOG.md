@@ -4,6 +4,7 @@
 
 ### 🛠 Breaking changes
 
+- Remove the deprecated `NavigationContainer` export
 - Make navigation state `type` optional for custom routers.
 - Remove the `initialParams` prop from Expo Router screens.
 - Remove the `initialRouteName` prop from Expo Router navigators.
